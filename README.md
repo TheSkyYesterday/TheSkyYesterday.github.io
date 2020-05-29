@@ -12,34 +12,17 @@
       <img src="/IMG_1878.JPG" width="100%">
     </td>
   </tr>
-<table border="1">
-  <tr>
-    <td>
+</table>
       <h2><b>求职意向</b></h2>
       <p><b>软件开发工程师（Java）</b></p>
-    </td>
-  </tr>
-</table>
-<table border="0">
-  <tr>
-    <td>
       <h2><b>专业技能</b></h2>
       <p><b>精通Java语言，遵循业界编程规范</b></p>
       <p><b>精通HTTP网络协议</b></p>
       <p><b>精通MySQL，丰富的调优经验</b></p>
       <p><b>精通Spring源码</b></p>
-    </td>
-  </tr>
-</table>
-<table border="0">
-  <tr>
-    <td>
       <h2><b>项目经历</b></h2>
       <p><b>硬币回笼系统：负责整个项目的二次开发研发和运维</b></p>
       <p><b>WMS仓储管理系统：负责整个项目的二次开发和运维</b></p>
-    </td>
-  </tr>
-</table>
 
 
 
