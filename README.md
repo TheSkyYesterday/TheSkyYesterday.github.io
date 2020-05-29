@@ -7,8 +7,8 @@
       <p><b>邮箱：1350213674@qq.com</b></p>
       <p><b>地址：济南市历城区山大北路51号</b></p>
     </td>
-    <td width="25%">
-      <img src="/IMG_1878.JPG" width="100%">
+    <td>
+      <img src="/IMG_1878.JPG">
     </td>
   </tr>
 </table>
